@@ -1,0 +1,71 @@
+body{
+    background-color: #E6E6FA;
+}
+
+.titulo{
+    color: #E6E6FA;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #191970;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+
+}
+
+.subtitulo1{
+    color: #191970;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #AEAED4;
+    margin-top: 15px;
+    border-bottom: dashed #191970;
+}
+
+.subtitulo2{
+    color: #191970;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #AEAED4;
+    margin-top: 15px;
+    border-bottom: dashed #191970;
+}
+
+ #home{
+    padding-right: 15px; 
+}
+
+ #services{
+    padding-right: 15px;
+ }
+
+ #contact{
+    padding-right: 15px;
+    
+ }
+
+  .paragrafo1{
+      text-align: center;
+      color: #191970;
+      font-size: 23px;
+  }
+
+  .paragrafo2{
+    text-align: center;
+    color: #191970;
+    font-size: 23px;
+  }
+
+  ul{
+      color: #191970;
+      font-weight: bold;
+      font-size: 18px;
+      margin-left: 20px;
+  }
+ 
+ footer{
+    font-style: italic;
+}
